@@ -53,3 +53,12 @@ You can get dataset from [nobel api](https://nobelprize.readme.io/docs) , this d
 ![](https://github.com/BahramJannesar/NobelPrize/blob/master/image/after.png)
 ![](https://github.com/BahramJannesar/NobelPrize/blob/master/image/after1.png)
 
+### Writer :
+![Soroush Ghaderi](https://github.com/SoroushGhaderi)
+![Bahram Jannesar](https://github.com/bahramjannesar)
+
+
+
+
+
+
