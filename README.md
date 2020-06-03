@@ -4,7 +4,7 @@ The Nobel Prize is a set of annual international awards bestowed in several cate
 ![](https://github.com/BahramJannesar/NobelPrize/blob/master/image/52993-landscape-full-width-2x.jpg)
 
 ## Dataset 
-You can get dataset from [nobel api](https://nobelprize.readme.io/docs) , this dataset is not good for analysis because very dirty and not tidy.
+You can get dataset from [nobel api](https://nobelprize.readme.io/docs)  , this dataset is not good for analysis because very dirty and not tidy.
 
 ### Dataset columns before cleaning :
 
